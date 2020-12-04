@@ -1,0 +1,9 @@
+D:\ChangFaDevelop\供应商平台\gys_funiu_webservice\gysfuniuservice\gysfuniuservice\bin\gysfuniuservice.dll
+D:\ChangFaDevelop\供应商平台\gys_funiu_webservice\gysfuniuservice\gysfuniuservice\bin\gysfuniuservice.pdb
+D:\ChangFaDevelop\供应商平台\gys_funiu_webservice\gysfuniuservice\gysfuniuservice\bin\Newtonsoft.Json.dll
+D:\ChangFaDevelop\供应商平台\gys_funiu_webservice\gysfuniuservice\gysfuniuservice\bin\Newtonsoft.Json.xml
+D:\ChangFaDevelop\供应商平台\gys_funiu_webservice\gysfuniuservice\gysfuniuservice\obj\Release\gysfuniuservice.csprojAssemblyReference.cache
+D:\ChangFaDevelop\供应商平台\gys_funiu_webservice\gysfuniuservice\gysfuniuservice\obj\Release\gysfuniuservice.csproj.CoreCompileInputs.cache
+D:\ChangFaDevelop\供应商平台\gys_funiu_webservice\gysfuniuservice\gysfuniuservice\obj\Release\gysfuniuservice.csproj.CopyComplete
+D:\ChangFaDevelop\供应商平台\gys_funiu_webservice\gysfuniuservice\gysfuniuservice\obj\Release\gysfuniuservice.dll
+D:\ChangFaDevelop\供应商平台\gys_funiu_webservice\gysfuniuservice\gysfuniuservice\obj\Release\gysfuniuservice.pdb

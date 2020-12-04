@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\w541\Desktop\IIS" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="11/09/2019 00:56:46" />
+    <file relUrl="WebService1.asmx" publishTime="06/07/2020 09:43:29" />
+    <file relUrl="bin/gysfuniuservice.pdb" publishTime="09/16/2020 15:48:17" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="11/09/2019 00:52:00" />
+    <file relUrl="Web.config" publishTime="09/16/2020 15:48:26" />
+    <file relUrl="bin/gysfuniuservice.dll" publishTime="09/16/2020 15:48:17" />
+    <file relUrl="bin/System.Data.SQLite.DLL" publishTime="02/01/2008 12:00:14" />
+    <file relUrl="bin/System.Data.SqlClient.dll" publishTime="09/13/2019 02:30:50" />
+  </publishProfile>
+</publishData>
