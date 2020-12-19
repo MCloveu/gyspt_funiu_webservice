@@ -44,7 +44,7 @@ namespace gysfuniuservice
                 flag = true;
             }
             return flag;
-            //return true;
+            // return true;
         }
         #endregion
 
@@ -818,7 +818,8 @@ namespace gysfuniuservice
             List<Vendor> list = new List<Vendor>();
             if (this.IsValiToken())
             {
-                string strSql = "select cVenCode,cVenName from VENDOR where cVCCode>=600 and cVCCode<700 order by cVenCode";
+                //string strSql = "select cVenCode,cVenName from VENDOR where cVCCode>=600 and cVCCode<700 order by cVenCode";
+                string strSql = "select cVenCode,cVenName from VENDOR order by cVenCode";
                 DataTable dt = bc.SearchTableSql(strSql, strYear, strFactory);
                 foreach (DataRow dr in dt.Rows)
                 {
@@ -835,7 +836,7 @@ namespace gysfuniuservice
 
         //获取价格
         /// <summary>
-        /// 查询用友数据库中供应商表
+        /// 查询用友数据库中价格
         /// 返回： list
         /// </summary>
         [XmlInclude(typeof(Price))]

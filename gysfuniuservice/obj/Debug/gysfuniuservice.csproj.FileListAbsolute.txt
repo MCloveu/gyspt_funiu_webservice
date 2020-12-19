@@ -17,3 +17,12 @@ D:\Gyspt_webservice\gysfuniuservice\gysfuniuservice\bin\Newtonsoft.Json.xml
 D:\Gyspt_webservice\gysfuniuservice\gysfuniuservice\obj\Debug\gysfuniuservice.dll
 D:\Gyspt_webservice\gysfuniuservice\gysfuniuservice\obj\Debug\gysfuniuservice.pdb
 D:\ChangFaDevelop\gyspt\gys_funiu_webservice\gysfuniuservice\gysfuniuservice\obj\Debug\gysfuniuservice.csprojResolveAssemblyReference.cache
+G:\software_source_back\gyspt\gyspt_funiu\gyspt_funiu_webservice\gysfuniuservice\bin\gysfuniuservice.dll.config
+G:\software_source_back\gyspt\gyspt_funiu\gyspt_funiu_webservice\gysfuniuservice\bin\gysfuniuservice.dll
+G:\software_source_back\gyspt\gyspt_funiu\gyspt_funiu_webservice\gysfuniuservice\bin\gysfuniuservice.pdb
+G:\software_source_back\gyspt\gyspt_funiu\gyspt_funiu_webservice\gysfuniuservice\bin\Newtonsoft.Json.dll
+G:\software_source_back\gyspt\gyspt_funiu\gyspt_funiu_webservice\gysfuniuservice\bin\Newtonsoft.Json.xml
+G:\software_source_back\gyspt\gyspt_funiu\gyspt_funiu_webservice\gysfuniuservice\obj\Debug\gysfuniuservice.csproj.CoreCompileInputs.cache
+G:\software_source_back\gyspt\gyspt_funiu\gyspt_funiu_webservice\gysfuniuservice\obj\Debug\gysfuniuservice.csproj.CopyComplete
+G:\software_source_back\gyspt\gyspt_funiu\gyspt_funiu_webservice\gysfuniuservice\obj\Debug\gysfuniuservice.dll
+G:\software_source_back\gyspt\gyspt_funiu\gyspt_funiu_webservice\gysfuniuservice\obj\Debug\gysfuniuservice.pdb

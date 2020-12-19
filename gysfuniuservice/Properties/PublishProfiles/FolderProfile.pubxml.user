@@ -8,4 +8,30 @@
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <_PublishTargetUrl>D:\ChangFaDevelop\供应商平台\gys_funiu_webservice\gysfuniuservice\publish</_PublishTargetUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/gysfuniuservice.dll">
+      <publishTime>12/19/2020 09:19:11</publishTime>
+    </File>
+    <File Include="bin/gysfuniuservice.pdb">
+      <publishTime>12/19/2020 09:19:11</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/16/2020 16:21:38</publishTime>
+    </File>
+    <File Include="bin/System.Data.SqlClient.dll">
+      <publishTime>09/16/2020 16:21:38</publishTime>
+    </File>
+    <File Include="bin/System.Data.SQLite.DLL">
+      <publishTime>09/16/2020 16:21:38</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>12/19/2020 09:19:12</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/19/2020 08:24:56</publishTime>
+    </File>
+    <File Include="WebService1.asmx">
+      <publishTime>09/16/2020 16:21:38</publishTime>
+    </File>
+  </ItemGroup>
 </Project>
